@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Quicksort
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
