@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0050-powx-n) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
