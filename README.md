@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
