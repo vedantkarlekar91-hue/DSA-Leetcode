@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3895-count-digit-appearances](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3895-count-digit-appearances) |
 | [4020-elevator-requests-i](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3895-count-digit-appearances](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3895-count-digit-appearances) |
 ## Quicksort
 |  |
 | ------- |
