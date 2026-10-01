@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -171,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
