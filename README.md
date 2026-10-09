@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3467-transform-array-by-parity](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3895-count-digit-appearances) |
 | [4020-elevator-requests-i](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/4020-elevator-requests-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
