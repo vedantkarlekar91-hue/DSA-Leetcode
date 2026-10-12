@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0229-majority-element-ii) |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -225,4 +231,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
