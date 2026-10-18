@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
