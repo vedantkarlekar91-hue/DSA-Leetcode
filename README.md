@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
