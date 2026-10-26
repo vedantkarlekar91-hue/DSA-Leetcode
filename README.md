@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
