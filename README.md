@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
