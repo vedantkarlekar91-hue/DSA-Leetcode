@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
