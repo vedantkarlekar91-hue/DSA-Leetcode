@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0709-to-lower-case) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Pigeonhole Principle
 |  |
