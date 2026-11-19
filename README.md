@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2942-find-words-containing-character) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2615-sum-of-distances](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2615-sum-of-distances) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/3668-restore-finishing-order) |
 ## Greedy
