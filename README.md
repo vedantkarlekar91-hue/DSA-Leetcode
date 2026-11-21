@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
