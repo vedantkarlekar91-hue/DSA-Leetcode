@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
