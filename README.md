@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vedantkarlekar91-hue/DSA-Leetcode/tree/master/2404-most-frequent-even-element) |
